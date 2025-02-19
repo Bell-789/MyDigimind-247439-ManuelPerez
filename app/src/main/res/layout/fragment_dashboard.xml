@@ -147,7 +147,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Set Time"
-        android:background="?android:attr/selectableItemBackground"
+        android:background="?android:attr/selectableItemBackground"/>
 
 
 </LinearLayout>
